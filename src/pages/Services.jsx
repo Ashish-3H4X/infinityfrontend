@@ -99,9 +99,7 @@ export default function Services() {
   return (
     <>
       <Navbar />
-
       <main className="min-h-screen w-full bg-gradient-to-br from-blue-100 via-pink-100 to-purple-100 pt-20 overflow-x-hidden">
-
         {/* HERO */}
         <section className="py-12 px-4 sm:px-6 text-center">
           <div className="max-w-4xl mx-auto">
@@ -205,7 +203,7 @@ export default function Services() {
           </div>
 
           <img
-            src="/src/images/servicetrns.png"
+            src="public\images\servicetrns.png"
             alt="process"
             className="w-full h-[260px] sm:h-[350px] md:h-[400px] object-cover rounded-xl"
           />
@@ -284,7 +282,7 @@ export default function Services() {
             </div>
 
             <img
-              src="/src/images/servicetrns1.png"
+              src="public\images\servicetrns1.png"
               alt="Why choose us"
               className="w-full h-[260px] sm:h-[350px] md:h-[400px] object-cover rounded-xl shadow"
             />

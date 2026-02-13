@@ -50,7 +50,7 @@ export default function About() {
               <div className="relative max-w-5xl mx-auto mt-10 sm:mt-16 rounded-3xl overflow-hidden shadow-2xl">
 
                 <img
-                  src="/src/images/service.png"
+                  src="public\images\service.png"
                   alt="Team collaboration"
                   className="w-full h-[220px] sm:h-auto object-cover"
                 />
